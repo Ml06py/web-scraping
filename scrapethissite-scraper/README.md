@@ -1,0 +1,1 @@
+scrape  <a href="http://www.scrapethissite.com/pages/simple/">This page</a> with bs4 and save the result in a file
